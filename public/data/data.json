@@ -1,0 +1,131 @@
+{
+    "title": "leu-juls| Portafolio",
+    "description": "Desarrolladora Full Stack",
+    "image": "/me.png",
+    "avatar": "/me.png",
+    "name": "Julia Leuenberger",
+    "skill": "Backend developer",
+    "location": "Barcelona",
+    "media": {
+        "email": "leuenberger2101@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/julialeu",
+        "likedin": "https://www.linkedin.com/in/julia-leuenberger/"
+    },
+    "about": "Desarrolladora Full Stack con más de 2 años de experiencia en Laravel, Vue.js, MySQL y APIs RESTful con prelicción por la creación de sistemas robustos, la optimización de código legado y la implementación de arquitecturas escalables.",
+    "technologies": [
+        {
+          "icon": "devicon-php-plain",
+          "name": "PHP (Laravel)"
+        },
+        {
+          "icon": "devicon-vuejs-plain",
+          "name": "Vue.js"
+        },
+        {
+          "icon": "devicon-python-plain",
+          "name": "Python (FastAPI)"
+        },
+        {
+          "icon": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "icon": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "icon": "devicon-docker-plain",
+          "name": "Docker"
+        },
+        {
+          "icon": "devicon-git-plain",
+          "name": "Git (GitHub, Bitbucket)"
+        }
+      ],
+    "experience": [
+        {
+            "icon": "terminal",
+            "title": "Saalg Geomechanics",
+            "subtitle": "Programadora full stack",
+            "description": "Desarrollé un sistema de reporte de incidencias para operadores de máquinas tuneladoras, liderando tanto el desarrollo backend como el frontend. Implementé APIs RESTful con Laravel (validación y middleware) y creé visualizaciones de datos interactivas con Vue.js y Plotly.js. Además, optimicé funcionalidades existentes y trabajé con FastAPI (Python) para generar informes en Excel.",
+            "date": "agosto 2023 - febrero 2025"
+        },
+        {
+            "icon": "briefcase",
+            "title": "Webcargo Freightos",
+            "subtitle": "Junior Backend Developer",
+            "description": "Inicié como becaria y posteriormente asumí responsabilidades como desarrolladora backend. Implementé nuevas funcionalidades utilizando PHP (Laravel), MySQL, React y JavaScript. Refactoricé código legado aplicando principios SOLID y arquitectura hexagonal, mejorando el rendimiento y la escalabilidad para la plataforma backoffice del equipo de bookings.",
+            "date": "Mayo 2022 - Mayo 2023"
+          }
+    ],
+    "projects": [
+        {
+            "icon": "bar-chart-4",
+            "title": "Agencia de viajes",
+            "subtitle": "En desarrollo",
+            "description": "Node.js + Express + MVC Este proyecto es una aplicación web construida con Node.js, Express y Pug como motor de plantillas. Implementa el patrón MVC (Modelo-Vista-Controlador), incluye conexión a una base de datos MySQL y permite manejar rutas, formularios, middlewares y contenido dinámico.",
+            "technologies": [
+                {
+                    "icon": "devicon-nodejs-plain",
+                    "name": "Node.js + Express"
+                }
+            ],
+            "github": "https://github.com/julialeu"
+        },
+        {
+            "icon": "bug-off",
+            "title": "hacker-news-scrapping",
+            "subtitle": "Aplicación de scrapping",
+            "description": "API asíncrona desarrollada con FastAPI para extraer noticias de Hacker News, ofreciendo dos endpoints principales para obtener 30 noticias de la primera página o de un rango de páginas especificado. Además, implementa una caché en memoria para disminuir las peticiones repetidas y facilitar la lectura de la información.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python (FastAPI)"
+                }
+            ],
+            "github": "https://github.com/julialeu"
+        },
+        {
+            "icon": "bar-chart-4",
+            "title": "Work with us",
+            "subtitle": "Proyecto de fin de ciclo formativo.",
+            "description": "Plataforma web que conecta a empresas y talentos, ofreciendo publicación de vacantes y postulación de manera ágil y sencilla.",
+            "technologies": [
+                {
+                    "icon": "devicon-php-plain",
+                    "name": "PHP (Laravel)"
+                },
+                {
+                    "icon": "devicon-vuejs-plain",
+                    "name": "Vue.js"
+                }
+            ],
+            "github": "https://github.com/julialeu"
+        }
+    ],
+    "training": [
+        {
+            "icon": "backpack",
+            "title": "Cibernarium",
+            "description": "Cloud Computing con AWS",
+            "subtitle": "Fundamentos de la nube y cómo utilizar los servicios más comunes de AWS para desarrollar y gestionar aplicaciones. Utilización de la consola de AWS, EC2, S3 y Lambda.",
+            "date": "2025"
+        },
+        {
+            "icon": "backpack",
+            "title": "Ilerna",
+            "description": "",
+            "subtitle": "Ciclo formativo de grado superior de desarrollo de aplicaciones web.",
+            "date": "2020 - 2022"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/unnamed.jpg",
+            "title": "Gato y Coco",
+            "description": "Mis dos amores, Gato y Coco",
+            "url": ""
+        }
+    ]
+}
